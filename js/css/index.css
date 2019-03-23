@@ -1,0 +1,40 @@
+  header
+{
+  background-color: #b02ed8;
+  color: white;
+  text-align: center;
+  margin: 1%;
+  padding: 1%;
+  font-size: 20px;
+  font-weight: bold;
+  border: 2px solid black;
+  box-shadow: 2px 5px  red;
+}
+a img
+{
+  display: block;
+  width: 10%;
+  margin: 1% 3% 0 auto;
+}
+.parent
+{
+  display: flex;
+  justify-content: space-around;
+}
+.child img
+{
+  width: 200px;
+  height: 280px;
+  background-color: pink;
+  padding: 2%;
+  margin: 2%;
+  border-radius: 5%;
+}
+.child
+{
+  width: 30%;
+  text-align: center;
+  border: 2px solid black;
+  background-color: skyblue;
+  border-radius: 5%;
+}

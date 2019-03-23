@@ -1,0 +1,28 @@
+body{
+  background-color: orange;
+}
+.main{
+  background-color: pink;
+  display: flex;
+  margin: 2%;
+  padding: 2%;
+  justify-content: space-around;
+}
+.left{
+  background-color:#796e6e;
+border-radius: 5%;
+  width: 30%;
+  text-align: center;
+  margin: 2%;
+  padding: 2%
+}
+.right{
+  background-color:#78e463;
+  border-radius: 5%;
+  width: 70%;
+  }
+img{
+  width: 180px;
+  height: 180px;
+  
+}
